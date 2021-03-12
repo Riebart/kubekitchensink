@@ -1,2 +1,3 @@
-# kubekitchensink
-Because there's separate tools for everything when it comes to Kubernetes, this is a tool for everything that is not.
+# KubeKitchenSink
+
+A tool for that which is not, should not, and must not, but, for some inconceivable reason, will be.
