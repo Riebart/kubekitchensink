@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# I warned you. This is for things that you shouldn't do.
+
+while [ true ]
+do
+  cat /dev/zero > /dev/null &
+done
